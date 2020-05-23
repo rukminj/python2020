@@ -3,12 +3,11 @@ x = []
 for i in new_list:
     if i not in x:
         x.append(i)
-        new_list.add(i)
     else:
         pass
 
 print (x)
-print(new_list)
+
 # new = []
 # l = [new.append(i) for i in new_list if i not in new x.append]
 
